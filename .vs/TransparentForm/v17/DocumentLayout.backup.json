@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:printstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\managecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:managecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\printstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:printstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\managestudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:managestudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|c:\\users\\pragyan kc\\downloads\\student-management-system-main\\student-management-system-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CF9A9A-BA06-486E-AD6E-48956812025D}|Student Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\PrintStudent.cs",
+              "RelativeDocumentMoniker": "PrintStudent.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\PrintStudent.cs",
+              "RelativeToolTip": "PrintStudent.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:48:21.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageStudent.cs",
+              "RelativeDocumentMoniker": "ManageStudent.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageStudent.cs",
+              "RelativeToolTip": "ManageStudent.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:44:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:07:57.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:38:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageCourseForm.cs",
+              "RelativeDocumentMoniker": "ManageCourseForm.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageCourseForm.cs",
+              "RelativeToolTip": "ManageCourseForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:47:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\PrintStudent.Designer.cs",
+              "RelativeDocumentMoniker": "PrintStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\PrintStudent.Designer.cs",
+              "RelativeToolTip": "PrintStudent.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAL8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:51:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageStudent.Designer.cs",
+              "RelativeDocumentMoniker": "ManageStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\ManageStudent.Designer.cs",
+              "RelativeToolTip": "ManageStudent.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwJQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:43:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:37:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "RegistrationForm.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:55:38.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Pragyan KC\\Downloads\\Student-Management-System-main\\Student-Management-System-main\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wJEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:29:38.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
